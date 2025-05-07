@@ -1,2 +1,2 @@
 # Heneguya_salminicola_genome
-Data associated to the genome of Henneguya salminicola
+This repository contains the genome of Henneguya salminicola assembled from PacBio reads
