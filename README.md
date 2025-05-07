@@ -7,3 +7,11 @@ This repository contains the genome of Henneguya salminicola assembled from PacB
 This zipped folder contains the genome assembled with NextDenovo from the PacBio reads.
 
 
+## Genome annotations
+
+The other files are annotation files:
+The proteome
+The repeats
+The RNA transcripts
+
+
