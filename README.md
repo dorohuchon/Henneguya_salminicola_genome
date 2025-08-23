@@ -1,5 +1,5 @@
 # Heneguya_salminicola_genome
-This repository contains the genome of Henneguya salminicola assembled from PacBio reads
+This repository contains the genome of Henneguya salminicola assembled from PacBio reads.
 
 ## Genome assembly
 
@@ -10,9 +10,9 @@ This zipped folder contains the genome assembled with NextDenovo from the PacBio
 ## Genome annotations
 
 The other files are annotation files:
-The proteome
-The repeats
-The RNA transcripts
+The proteome.
+The repeats.
+The RNA transcripts.
 
 ## Python_scripts
 The zip file contains the script written by Racheli Hadjez for the intron length and intron retention analyses.
