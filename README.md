@@ -14,4 +14,5 @@ The proteome
 The repeats
 The RNA transcripts
 
-
+## Python_scripts
+The zip file contains the script written by Racheli Hadjez for the intron length and intron retention analyses.
