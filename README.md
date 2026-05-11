@@ -7,5 +7,5 @@ This zipped folder contains the genome assembled with NextDenovo from the PacBio
 
 
 ## Genome annotations
-The proteome annotation obtained with Braker3: Protein_annotation_HSA_BRAKER3.gtf.\
-The repeat annotation obtained with Earlgrey6: Repeat_annotation_EarlGrey6.gff\.
+**Protein_annotation_HSA_BRAKER3.gtf**: The proteome annotation obtained with Braker3.\
+**Repeat_annotation_EarlGrey6.gff**: The repeat annotation obtained with Earlgrey6.\
