@@ -1,5 +1,5 @@
 # Heneguya_salminicola_genome
-This repository contains the genome of _Henneguya salminicola_ assembled from PacBio reads.
+This repository contains the genome of _Henneguya salminicola_ assembled from PacBio reads.<br>
 Publication: Hadjez, et al. 2026 DOI: [10.1093/molbev/msag244](https://doi.org/10.1093/molbev/msag244).
 <br>
 ## Genome assembly
